@@ -1,0 +1,7 @@
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp1.dll
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp1.pdb
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp3.csproj.AssemblyReference.cache
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp3.csproj.CoreCompileInputs.cache
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\КОМП\source\repos\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp1.pdb

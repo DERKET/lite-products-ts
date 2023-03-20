@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+        Добро пожаловать ресторан доставки
+    </title>
+</head>
+<body>
+    <table border="2" bordercolor="black" style="height: 12%; width: 100%;">
+        <tbody>
+
+            <tr style="height: 12%;">
+                <td style="width: 1%; height: 35%;"></td>
+                <td style="width: 12%; height: 12%;">
+                    <form id="myForm">
+                        Наше меню на сегодня
+                        <select id="foodMenu">
+                            <option>Комбо-набор мини (250р)</option>
+                            <option>Комбо-набор средний (450р)</option>
+                            <option>Комбо набор большой (650р)</option>
+                        </select>
+                        </br>
+                        Куда необходимо доставить товар?</br>
+                        <input id="Where" />
+                    </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p id="Result"></p>
+    <input type="button" value="Составить заказ" onclick="Send()">
+    <script src="app.js"></script>
+</body>
+</html>
